@@ -25,6 +25,6 @@ Escolha **1 → 2 → S → N → 3** para simular um apartamento de dois quarto
 O arquivo `exemplo_projecao_12_meses.csv` mostra o resultado dessa execução. Para o estúdio, a contratação da garagem é opcional e começa pelo pacote de duas vagas. A taxa contratual é lançada a partir do primeiro mês e eventual diferença de centavos entra na última parcela.
 
 ## Organização 
-Imovel guarda as regras de preço da categoria. Orcamento combina a categoria e as escolhas do cliente, detalha o aluguel e calcula os pagamentos do primeiro ano. As funções de terminal e exportação cuidam das entradas e saídas.
+
 
 `Imovel` guarda as regras de preço da categoria. `Orcamento` combina a categoria e as escolhas do cliente, detalha o aluguel e calcula os pagamentos do primeiro ano. As funções de terminal e exportação cuidam das entradas e saídas.
